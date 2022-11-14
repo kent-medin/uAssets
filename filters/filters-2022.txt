@@ -2553,7 +2553,7 @@ nevcoins.club##.justify-content-center.box-shadow
 /main.js$script,3p,domain=11bit.co.in
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/118055
-||surfe.pro/js/net.js$script,xhr,redirect-rule=noop.js
+! ||surfe.pro/js/net.js$script,xhr,redirect-rule=noop.js
 faucetcrypto.net##+js(acis, eval, decodeURIComponent)
 
 ! https://github.com/AdguardTeam/AdguardFilters/issues/118042
@@ -3090,13 +3090,13 @@ komikav.com##+js(nowoif)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/13607
 @@*$xhr,domain=adclickersbot.com
-@@||static.surfe.pro/js/net.js$script,domain=adclickersbot.com
+! @@||static.surfe.pro/js/net.js$script,domain=adclickersbot.com
 adclickersbot.com##+js(aeld, , _0x)
 adclickersbot.com##+js(nowoif, /^/, 1)
 adclickersbot.com##+js(aopw, _pop)
 *$frame,domain=adclickersbot.com,redirect-rule=noopframe
 *$image,domain=adclickersbot.com,redirect-rule=1x1.gif
-||surfe.be^$important
+! ||surfe.be^$important
 
 ! https://github.com/uBlockOrigin/uAssets/issues/14035
 drakescans.com##+js(acis, startCheckingAdblock)
