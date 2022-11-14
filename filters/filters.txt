@@ -1,4 +1,4 @@
-! Title: uBlock₀ filters
+! Title: uBlock₀ filters surfe.be
 ! Description: Filters optimized for uBlock, to be used along EasyList
 ! Expires: 4 days
 ! Last modified: %timestamp%
